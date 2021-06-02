@@ -15,7 +15,11 @@ Team A-Pot 'Smart Flower Pot' Project
 <img src="https://user-images.githubusercontent.com/56511728/120421870-133fd200-c3a2-11eb-9ed1-893e7228f79a.jpg" width="300" heoght="300">
 
 
-
+## Video
+```
+영상 제작중
+```
+</br>
 
 ## 참고자료
 

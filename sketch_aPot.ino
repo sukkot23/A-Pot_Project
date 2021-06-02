@@ -159,8 +159,8 @@ void onDisplayTimer(int lux) {
 
 // 현재 밝기에 따른 LED 상태 변경 코드
 void onLEDEvent(int lux) {
-    if (lux > 650) {
-    // 저항값 651 이상일 시
+    if (lux >= 650) {
+    // 저항값 650 이상일 시
     // 파란색 LED, 빨간색 LED 점등
     digitalWrite(ledBlue, HIGH);
     digitalWrite(ledRed, HIGH);
@@ -170,8 +170,8 @@ void onLEDEvent(int lux) {
     lcd.setCursor(2, 0);
     lcd.write(byte(4));
   }
-  else if (lux > 500) {
-    // 저항값 501 이상일 시
+  else if (lux >= 500) {
+    // 저항값 500 이상일 시
     // 파란색 LED 소등, 빨간색 LED 점등
       digitalWrite(ledBlue, LOW);
       digitalWrite(ledRed, HIGH);

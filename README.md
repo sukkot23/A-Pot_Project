@@ -46,6 +46,15 @@ Normal Version | ឵Improved version
 3시간 간격으로 자동으로 1번 모드(LED 모드)와 2번 모드(슬립 모드)를
 번갈아가며 모드 교체를 하게 됩니다
 ```
+### LCD 상태 설명
+Emoji | ឵Description
+:---:|:---:
+<img src="https://user-images.githubusercontent.com/56511728/126022623-b8c04b03-1919-4893-b4ca-5ff32db606b3.png"> | 밝기레벨 650이상 일 경우 </br> 파란LED, 빨간LED 활성화
+<img src="https://user-images.githubusercontent.com/56511728/126022630-748dac90-9089-4207-b687-cc1460b69d66.png"> | 밝기레벨 500이상 일 경우 </br> 빨간LED만 활성화
+<img src="https://user-images.githubusercontent.com/56511728/126022635-996e090f-f16b-4e45-aff0-ddcb5e269a78.png"> | 밝기레벨 499이하 일 경우 </br> 모든 LED 비활성화
+<img src="https://user-images.githubusercontent.com/56511728/126022638-95f4f86b-2761-4611-a455-d2f4a6dfed49.png"> | 밝기레벨 249이하 일 경우 </br> LCD 백라이트 꺼짐
+
+
 </br>
 
 ## 소스코드 (Source Code)

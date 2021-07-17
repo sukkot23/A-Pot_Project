@@ -8,6 +8,7 @@ Team A-Pot 'Smart Flower Pot' Project
 2021.06.02 - 소스코드 주석 추가
            - 모델링 파일 업로드
            - 결과물 사진 업로드
+2021.07.17 - 결선도 수정 및 README 
 ```   
 </br>
    

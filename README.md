@@ -53,7 +53,7 @@ https://github.com/sukkot23/A-Pot_Project/blob/master/sketch_aPot.ino
 https://github.com/sukkot23/A-Pot_Project/tree/master/3D_Objects
 
 ## 결선도 (Wiring Diagram)
-https://github.com/sukkot23/A-Pot_Project/issues/2
+https://github.com/sukkot23/A-Pot_Project/tree/master/Wiring_Diagram
 
 </br>
 

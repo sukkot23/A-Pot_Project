@@ -12,7 +12,9 @@ Team A-Pot 'Smart Flower Pot' Project
 </br>
    
 ## Thumbnail
-<img src="https://user-images.githubusercontent.com/56511728/120421870-133fd200-c3a2-11eb-9ed1-893e7228f79a.jpg" width="300" heoght="300">
+Normal Version | ឵Improved version
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/56511728/120421870-133fd200-c3a2-11eb-9ed1-893e7228f79a.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/56511728/126022360-261c9634-c92e-429c-9d68-74a2b3bcb670.jpg" width="347">
 
 
 ## 제품 설명 (Product Guide)
